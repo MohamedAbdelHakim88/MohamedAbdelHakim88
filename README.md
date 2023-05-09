@@ -35,19 +35,14 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mohamed-abdel-hakim-272aa2110">
+<!-- <a href="https://www.linkedin.com/in/mohamed-abdel-hakim-272aa2110">
   <img align="left" alt="Mohamed Abdel Hakim's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/mohamed-abdel-hakim-272aa2110" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-
-
 <a href="https://wa.me/201033389740" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
-
 <a href="mailto:Mohamed_AbdelHakeem@Outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
-
 <a href="mailto:MhmedAbdelHakim@Gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
