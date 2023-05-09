@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/mohamed-abdel-hakim-272aa2110">
   <img align="left" alt="Mohamed Abdel Hakim's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Abdel%20Hakim-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 ![Mohamed Abdel Hakim](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)(mailto:Mohamed_AbdelHakeem@Outlook.com)&nbsp;
