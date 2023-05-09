@@ -9,8 +9,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=25&pause=1000&color=2860CAE4&center=true&vCenter=true&multiline=true&width=435&height=105&lines=Full-Stack+Web+Developer;RPA+Developer+%7C+UiPath" alt="Typing SVG" /></a>
 </p> 
 
-
-<h3>Things I code with</h3>
 - 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
