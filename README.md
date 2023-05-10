@@ -18,6 +18,17 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
 
+### Connect with Me :
+
+<!-- <a href="https://www.linkedin.com/in/mohamed-abdel-hakim-272aa2110">
+  <img align="left" alt="Mohamed Abdel Hakim's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> -->
+
+<a href="https://www.linkedin.com/in/mohamed-abdel-hakim-272aa2110" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://wa.me/201033389740" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+<a href="mailto:Mohamed_AbdelHakeem@Outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="mailto:MhmedAbdelHakim@Gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -32,17 +43,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
-
-### Connect with Me :
-
-<!-- <a href="https://www.linkedin.com/in/mohamed-abdel-hakim-272aa2110">
-  <img align="left" alt="Mohamed Abdel Hakim's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
-
-<a href="https://www.linkedin.com/in/mohamed-abdel-hakim-272aa2110" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://wa.me/201033389740" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
-<a href="mailto:Mohamed_AbdelHakeem@Outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
-<a href="mailto:MhmedAbdelHakim@Gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
